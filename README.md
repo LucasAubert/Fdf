@@ -19,13 +19,12 @@
 <h1>Contenu du dossier</h1>
 <p>Le dossier contient un Makefile ainsi que tous les fichiers nécessaires à la compilation du programme. Il contient aussi un dossier maps dans leque se situent des cartes que vous pourrez ouvrir.</p>
 <h1>Utilisation</h1>
-<p>Après avoir téléchargé le dossier, rendez-vous à la racine de celui ci. Lancez la commande <mark>make</mark> dans votre terminal. Le programme se compile, il a pour nom "fdf".</p>
+<p>Après avoir téléchargé le dossier, rendez-vous à la racine de celui ci. Lancez la commande **make** dans votre terminal. Le programme se compile, il a pour nom "fdf".</p>
 <p>Exécutez-le avec en paramètre le fichier que vous souhaitez, par exemple comme ceci :</p>
-<p><mark>./fdf maps/martinique.fdf</mark></p>
+<p>**./fdf maps/martinique.fdf**</p>
 <h1>Commandes d'utilisation :</h1>
 <p>Appuyez sur la flèche du haut ou la flèche du bas pour faire varier la hauteur de l'élément. Les flèches de droite et de gauche permettent de le faire tourner sur lui-même.</p>
-<p>Les touches <mark>i</mark> et <mark>o</mark> permettent de respectivement zoomer et dézoomer.</p>
-<p>Enfin, les commandes <mark>z</mark>, <mark>q</mark>, <mark>s</mark> et <mark>d</mark> permettent de se déplacer dans la carte.</p>
-<style type="text/css">mark{font-weight: bold;}</style>
+<p>Les touches **i** et **o** permettent de respectivement zoomer et dézoomer.</p>
+<p>Enfin, les commandes **z**, **q**, **s** et **d** permettent de se déplacer dans la carte.</p>
 </body>
 </html>
