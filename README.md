@@ -19,8 +19,16 @@ Le dossier contient un Makefile ainsi que tous les fichiers nécessaires à la c
 <h1>Utilisation</h1>
 Après avoir téléchargé le dossier, rendez-vous à la racine de celui ci. Lancez la commande <b>make</b> dans votre terminal. Le programme se compile, il a pour nom "fdf".
 Exécutez-le avec en paramètre le fichier que vous souhaitez, par exemple comme ceci :
+<<<<<<< HEAD
 <b>./fdf maps/martinique.fdf</b>
 <h1>Commandes d'utilisation :</h1>
 Appuyez sur la flèche du haut ou la flèche du bas pour faire varier la hauteur de l'élément. Les flèches de droite et de gauche permettent de le faire tourner sur lui-même.
 Les touches <b>i</b> et <b>o</b> permettent de respectivement zoomer et dézoomer.
 Enfin, les commandes <b>z</b>, <b>q</b>, <b>s</b> et <b>d</b> permettent de se déplacer dans la carte.
+=======
+__./fdf maps/martinique.fdf__
+<h1>Commandes d'utilisation :</h1>
+Appuyez sur la flèche du haut ou la flèche du bas pour faire varier la hauteur de l'élément. Les flèches de droite et de gauche permettent de le faire tourner sur lui-même.
+Les touches **i** et **o** permettent de respectivement zoomer et dézoomer.
+Enfin, les commandes **z**, **q**, **s** et **d** permettent de se déplacer dans la carte.
+>>>>>>> 71035c987beac2bc29c33e13ced03b1d7c6a7ce4
