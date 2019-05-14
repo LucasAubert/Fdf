@@ -19,7 +19,7 @@ Le dossier contient un Makefile ainsi que tous les fichiers nécessaires à la c
 <h1>Utilisation</h1>
 Après avoir téléchargé le dossier, rendez-vous à la racine de celui ci. Lancez la commande **make** dans votre terminal. Le programme se compile, il a pour nom "fdf".
 Exécutez-le avec en paramètre le fichier que vous souhaitez, par exemple comme ceci :
-**./fdf maps/martinique.fdf**
+__./fdf maps/martinique.fdf__
 <h1>Commandes d'utilisation :</h1>
 Appuyez sur la flèche du haut ou la flèche du bas pour faire varier la hauteur de l'élément. Les flèches de droite et de gauche permettent de le faire tourner sur lui-même.
 Les touches **i** et **o** permettent de respectivement zoomer et dézoomer.
