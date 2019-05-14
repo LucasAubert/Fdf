@@ -26,5 +26,6 @@
 <p>Appuyez sur la flèche du haut ou la flèche du bas pour faire varier la hauteur de l'élément. Les flèches de droite et de gauche permettent de le faire tourner sur lui-même.</p>
 <p>Les touches <mark>i</mark> et <mark>o</mark> permettent de respectivement zoomer et dézoomer.</p>
 <p>Enfin, les commandes <mark>z</mark>, <mark>q</mark>, <mark>s</mark> et <mark>d</mark> permettent de se déplacer dans la carte.</p>
+<style type="text/css">mark{font-weight: bold;}</style>
 </body>
 </html>
