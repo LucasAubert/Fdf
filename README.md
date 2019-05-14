@@ -17,7 +17,7 @@ Ainsi, le programme lit ces données et ouvre la carte dans une fenêtre graphiq
 <h1>Contenu du dossier</h1>
 Le dossier contient un Makefile ainsi que tous les fichiers nécessaires à la compilation du programme. Il contient aussi un dossier maps dans leque se situent des cartes que vous pourrez ouvrir.
 <h1>Utilisation</h1>
-Après avoir téléchargé le dossier, rendez-vous à la racine de celui ci. Lancez la commande **make** dans votre terminal. Le programme se compile, il a pour nom "fdf".
+Après avoir téléchargé le dossier, rendez-vous à la racine de celui ci. Lancez la commande <b>make</b> dans votre terminal. Le programme se compile, il a pour nom "fdf".
 Exécutez-le avec en paramètre le fichier que vous souhaitez, par exemple comme ceci :
 __./fdf maps/martinique.fdf__
 <h1>Commandes d'utilisation :</h1>
